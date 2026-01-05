@@ -3,8 +3,8 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
-    model = "anyon_e";
-    compatible = "byranhuang,anyon_e";
+    model = "xd";
+    compatible = "hackclub,xd";
 
     chosen {
         zephyr,code-partition = &code_partition;
